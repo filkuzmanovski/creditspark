@@ -8,7 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-/metastore_db
 env/
 build/
 develop-eggs/
@@ -100,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# metaDb
+metastore_db/
